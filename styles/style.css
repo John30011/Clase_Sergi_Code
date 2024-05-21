@@ -1,0 +1,64 @@
+body {
+ background-color:burlywood ; /*Color del cuerpo de la pagina*/
+ 
+}
+
+h1 , h2, h3{
+ color: aqua; /*Color de las etiquetas*/
+ padding-left:  50px;
+ width: 100%;
+
+ 
+}
+
+#parrafo {
+    color:blueviolet;
+    font-size: 40px; /*tamaño de la letra*/ 
+    font-family: Verdana, Geneva, Tahoma, sans-serif; /*Cambio de estilo de la letra*/ 
+}
+
+
+#parrafo2 {
+    color:chartreuse;  /*color de la letra */
+    text-decoration-line: underline; /*rallado */ 
+    text-transform: uppercase; /*mayuscula */
+
+}
+
+/*atributo mas utilizado*/
+.blanco {
+    color: white ;
+}
+
+.cuadrado {
+    border-style: solid;
+    border-width: 50px;
+    border-color: aquamarine;
+    
+
+}
+
+.cuadrado-blanco {
+    border-style: solid;
+    border-width: 5px;
+    border-color: aquamarine;
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 10px;
+    
+
+}
+
+.imagen {
+    border: 5px;
+    border-style: solid;
+    border-width: 25px;
+    border-color: aliceblue;
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-right: 1000px;
+    padding: 10px;
+    border-radius: 10px;
+                                                                                                                       
+}
